@@ -35,7 +35,7 @@ flags:
 ### 1) Clone the repository
 
 ```sh
-git clone https://github.com/gabrielcapilla/nitch.git
+git clone https://github.com/fwlackovic/nitch.git
 ```
 
 ### 2) Change dir to `nitch`
