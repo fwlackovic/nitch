@@ -1,7 +1,7 @@
 # Package
 
 version       = "0.1.8"
-author        = "gabrielcapilla"
+author        = "fwlackovic"
 description   = "System fetch in nim lang"
 license       = "MIT"
 
