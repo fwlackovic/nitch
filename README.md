@@ -11,7 +11,7 @@ Incredibly fast system fetch written in [nim](https://github.com/nim-lang/Nim)
 ## Installation
 
 ```sh
-wget https://raw.githubusercontent.com/gabrielcapilla/nitch/main/setup && sh setup
+wget https://raw.githubusercontent.com/fwlackovic/nitch/main/setup && sh setup
 ```
 
 ## Usage
@@ -61,3 +61,4 @@ After that you will get a ready-made binary file in the root directory of the pr
 ## Special thanks to
 
 - [sleert](https://github.com/ssleert/nitch)
+- [gabrielcapilla](https://github.com/gabrielcapilla/)
