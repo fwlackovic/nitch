@@ -10,7 +10,7 @@ function install() {
 }
 
 function downloadFile() {
-  local url="https://api.github.com/repos/gabrielcapilla/nitch/releases/latest"
+  local url="https://api.github.com/repos/fwlackovic/nitch/releases/latest"
   local downloadUrl
   downloadUrl=$(curl -s "$url" | jq -r ".assets[] | select(.name == \"$fileName\") | .browser_download_url")
 
