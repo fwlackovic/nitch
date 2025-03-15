@@ -15,6 +15,7 @@ func getLogo*(distroId: string): string =
   of "opensuse": opensuseLogo
   of "pop": poposLogo
   of "redhat": redhatLogo
+  of "rocky": rockyLogo
   of "slackware": slackwareLogo
   of "ubuntu": ubuntuLogo
   of "void": voidLogo
