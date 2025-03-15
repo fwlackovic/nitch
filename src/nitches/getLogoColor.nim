@@ -7,5 +7,5 @@ func getLogoColor*(distroId: string): ForegroundColor =
   of "gentoo": fgMagenta
   of "ubuntu", "debian", "redhat": fgRed
   of "arch", "fedora", "Zorin OS", "slackware": fgBlue
-  of "linuxmint", "manjaro", "opensuse", "cachyos": fgGreen
+  of "linuxmint", "manjaro", "opensuse", "cachyos", "rocky": fgGreen
   else: fgRed
